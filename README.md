@@ -1,6 +1,6 @@
 # Projeto-responsivo
 
-Projeto para teinar habilidades com páginas responsivas.
+Projeto para treinar habilidades com páginas responsivas.
 
 
 Link Projeto: https://projeto-responsivo00.netlify.app/
